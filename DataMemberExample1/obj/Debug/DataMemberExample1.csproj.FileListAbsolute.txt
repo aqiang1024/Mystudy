@@ -1,0 +1,7 @@
+E:\Project\DataMemberExample1\bin\Debug\DataMemberExample1.exe.config
+E:\Project\DataMemberExample1\bin\Debug\DataMemberExample1.exe
+E:\Project\DataMemberExample1\bin\Debug\DataMemberExample1.pdb
+E:\Project\DataMemberExample1\obj\Debug\DataMemberExample1.csproj.AssemblyReference.cache
+E:\Project\DataMemberExample1\obj\Debug\DataMemberExample1.csproj.CoreCompileInputs.cache
+E:\Project\DataMemberExample1\obj\Debug\DataMemberExample1.exe
+E:\Project\DataMemberExample1\obj\Debug\DataMemberExample1.pdb
